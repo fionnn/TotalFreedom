@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <propertyfile file="/Users/fionnbrophy/Documents/tfm/TotalFreedomMod/src/main/resources/build.properties" comment="Build information. Edit this to your liking.">
+      <entry default="unknown" key="buildAuthor" />
+      <entry default="0" key="buildNumber" />
+      <entry value="lttstore.com" key="buildCodeName" />
+      <entry value="5.5fb" key="buildVersion" />
+      <entry value="03/19/2026 20:42" key="buildDate" />
+    </propertyfile>
+  </target>
+</project>
